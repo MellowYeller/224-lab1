@@ -1,5 +1,5 @@
 Mammals
-1. Fox
-2. Sloth
+1. Fox (Dan)
+2. Sloth (Mitch)
 3. Zebra (Jake)
-4. Tiger
+4. Tiger (Lyndsey)
