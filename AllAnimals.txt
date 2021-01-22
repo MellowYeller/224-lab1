@@ -2,25 +2,25 @@ AllAnimals.txt
 List of Our Favorite Animals!
 
 Mammals
-1. 
+1. Fox
 2. 
 3. 
 4. 
 
 Reptiles
-1. 
+1. Bearded Dragon
 2. 
 3. 
 4. 
 
 Fish
-1. 
+1. Pike
 2. 
 3. 
 4. 
 
 Birds
-1. 
+1. Cockatoo
 2. 
 3. 
 4. 
