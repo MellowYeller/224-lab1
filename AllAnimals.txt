@@ -2,25 +2,25 @@ AllAnimals.txt
 List of Our Favorite Animals!
 
 Mammals
-1. Fox
-2. Sloth
+1. Fox (Dan)
+2. Sloth (Mitch)
 3. Zebra (Jake)
-4. Tiger		
+4. Tiger (Lyndsey)
 
 Reptiles
-1. Chinese Water Dragon
-2. Tree frog
+1. Chinese Water Dragon (Dan)
+2. Tree frog (Mitch)
 3. Komodo Dragon (Jake)
-4. Bearded Dragon
+4. Bearded Dragon (Lyndsey)
 
 Fish
-1. Pike
-2. GloFish
+1. Pike (Dan)
+2. GloFish (Mitch)
 3. Japanese Fighting Fish (Jake)
-4. Clownfish		
+4. Clownfish (Lyndsey)
 
 Birds
-1. Cockatoo
-2. Grouse
+1. Cockatoo (Dan)
+2. Grouse (Mitch)
 3. Peregrine Falcon (Jake)
-4. Emu
+4. Emu (Lyndsey)
