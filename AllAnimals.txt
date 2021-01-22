@@ -1,1 +1,26 @@
-Bombay cat
+AllAnimals.txt
+List of Our Favorite Animals!
+
+Mammals
+1. 
+2. 
+3. 
+4. 
+
+Reptiles
+1. 
+2. 
+3. 
+4. 
+
+Fish
+1. 
+2. 
+3. 
+4. 
+
+Birds
+1. 
+2. 
+3. 
+4. 
