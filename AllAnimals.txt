@@ -2,25 +2,25 @@ AllAnimals.txt
 List of Our Favorite Animals!
 
 Mammals
-1. 
+1. Fox
 2. Sloth
 3. Zebra (Jake)
 4. Tiger		
 
 Reptiles
-1. 
+1. Chinese Water Dragon
 2. Tree frog
 3. Komodo Dragon (Jake)
 4. Bearded Dragon
 
 Fish
-1. 
+1. Pike
 2. GloFish
 3. Japanese Fighting Fish (Jake)
 4. Clownfish		
 
 Birds
-1. 
+1. Cockatoo
 2. Grouse
 3. Peregrine Falcon (Jake)
-4. Emu 
+4. Emu
